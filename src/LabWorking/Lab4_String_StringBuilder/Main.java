@@ -1,4 +1,4 @@
-package LabWorking.String_StringBuilder;
+package LabWorking.Lab4_String_StringBuilder;
 
 import java.util.Scanner;
 

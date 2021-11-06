@@ -1,4 +1,4 @@
-package LabWorking.SimpleAlgorithms;
+package LabWorking.Lab3_SimpleAlgorithms;
 
 import java.util.Arrays;
 import java.util.Scanner;

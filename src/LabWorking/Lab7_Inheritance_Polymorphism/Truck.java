@@ -1,4 +1,4 @@
-package LabWorking.Inheritance_Polymorphism;
+package LabWorking.Lab7_Inheritance_Polymorphism;
 
 public class Truck extends Car {
     private int numberOfWheels;

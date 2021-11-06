@@ -1,4 +1,4 @@
-package LabWorking.Introduction;
+package LabWorking.Lab1_Introduction;
 
 import java.util.Scanner;
 

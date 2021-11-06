@@ -1,4 +1,4 @@
-package LabWorking.Inheritance_Polymorphism;
+package LabWorking.Lab7_Inheritance_Polymorphism;
 
 import java.util.ArrayList;
 import java.util.List;

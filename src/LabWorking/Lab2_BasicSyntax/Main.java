@@ -1,4 +1,4 @@
-package LabWorking.BasicSyntax;
+package LabWorking.Lab2_BasicSyntax;
 
 import java.util.List;
 import java.util.ArrayList;
