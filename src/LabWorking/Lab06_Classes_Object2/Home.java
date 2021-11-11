@@ -1,4 +1,4 @@
-package LabWorking.Lab6_Classes_Object2;
+package LabWorking.Lab06_Classes_Object2;
 
 import java.time.LocalDate;
 

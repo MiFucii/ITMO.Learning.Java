@@ -1,4 +1,4 @@
-package LabWorking.Lab7_Inheritance_Polymorphism;
+package LabWorking.Lab07_Inheritance_Polymorphism;
 
 public class Car {
     protected int weight;

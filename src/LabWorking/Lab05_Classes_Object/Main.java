@@ -1,4 +1,4 @@
-package LabWorking.Lab5_Classes_Object;
+package LabWorking.Lab05_Classes_Object;
 
 import java.util.Random;
 import java.util.Scanner;
